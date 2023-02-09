@@ -1,0 +1,5 @@
+.banner__stroke {
+    position: absolute;
+    -webkit-text-stroke: 4px white;
+    text-shadow: 0.910868px 0.910868px 3.64347px #3CBA85;
+}

@@ -1,0 +1,8 @@
+.banner__container {
+    margin: 0 auto 52px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+}

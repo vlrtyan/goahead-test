@@ -1,0 +1,16 @@
+.flavour {
+    width: 112.43px;
+    height: 115.17px;
+    background: linear-gradient(186.15deg, #F7FABA 0.42%, #C5EB9D 63.56%);
+    border: 0.918963px solid #FFFFFF;
+    border-radius: 27.5689px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.flavour:hover {
+    transform: scale(1.1);
+}

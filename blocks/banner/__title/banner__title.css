@@ -1,0 +1,16 @@
+.banner__title {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2D8957;
+    padding-top: 39px;
+    margin: 0 auto 8px;
+    z-index: 1;
+}
+
+.span-bold {
+    font-weight: 700;
+}

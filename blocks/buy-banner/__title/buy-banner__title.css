@@ -1,0 +1,12 @@
+.buy-banner__title {
+    font-size: 35px;
+    line-height: 42px;
+    padding-top: 74px;
+    margin: 0 auto 16px;
+    max-width: calc(100% - 2 * 22px);
+}
+
+.span-smaller {
+    font-size: 28px;
+    line-height: 33px;
+}

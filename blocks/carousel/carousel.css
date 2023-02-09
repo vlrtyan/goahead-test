@@ -1,0 +1,8 @@
+.carousel {
+    margin: 30px auto auto;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 600px;
+    position: relative;
+}
