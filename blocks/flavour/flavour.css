@@ -11,6 +11,8 @@
     cursor: pointer;
 }
 
-.flavour:hover {
-    transform: scale(1.1);
+@media screen and (min-width: 768px) {
+    .flavour:hover {
+        transform: scale(1.1);
+    }
 }
