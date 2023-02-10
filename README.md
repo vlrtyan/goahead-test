@@ -6,4 +6,4 @@
 2. CSS
 3. JS
 
-## Перейти на сайт можно по [ссылке](https://vlrtyan.github.io/goahead-test)
+## Посмотреть баннер можно [здесь](https://vlrtyan.github.io/goahead-test)
