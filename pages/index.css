@@ -9,6 +9,7 @@
 @import url(../blocks/banner/__subtitle/banner__subtitle.css);
 @import url(../blocks/banner/__container/banner__container.css);
 @import url(../blocks/flavour/flavour.css);
+@import url(../blocks/flavour/__image/flavour__image.css);
 
 @import url(../blocks/buy-banner/buy-banner.css);
 @import url(../blocks/buy-banner/__title/buy-banner__title.css);
