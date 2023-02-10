@@ -1,5 +1,10 @@
 .banner__stroke {
     position: absolute;
     -webkit-text-stroke: calc(1.82174px * 2) white;
-    /* text-shadow: 0.910868px 0.910868px 3.64347px #3CBA85; */
+}
+
+@media screen and (min-width: 768px) {
+    .banner__stroke {
+        text-shadow: 0.910868px 0.910868px 3.64347px #3CBA85;
+    }
 }

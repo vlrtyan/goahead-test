@@ -1,5 +1,10 @@
 .buy-banner__stroke {
     position: absolute;
     -webkit-text-stroke: calc(1.63822px * 2) white;
-    text-shadow: 0.81911px 0.81911px 3.27644px #3CBA85;
+}
+
+@media screen and (min-width: 768px) {
+    .buy-banner__stroke {
+        text-shadow: 0.81911px 0.81911px 3.27644px #3CBA85;
+    }
 }
