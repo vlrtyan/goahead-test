@@ -31,5 +31,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* animation: display 4s infinite; */
+    animation: display 4s infinite;
+    transform:translate3d(0,0,0); 
 }
