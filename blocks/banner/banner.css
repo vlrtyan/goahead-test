@@ -32,4 +32,6 @@
     flex-direction: column;
     align-items: center;
     animation: display 4s infinite;
+    backface-visibility: hidden;
+    perspective: 1000;
 }

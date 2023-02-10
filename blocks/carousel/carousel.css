@@ -6,4 +6,5 @@
     height: 600px;
     position: relative;
     backface-visibility: hidden;
+    perspective: 1000;
 }
