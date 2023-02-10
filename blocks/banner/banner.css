@@ -32,5 +32,8 @@
     flex-direction: column;
     align-items: center;
     animation: display 4s infinite;
-    transform:translate3d(0,0,0); 
+    transform: translate3d(0,0,0);
+    backface-visibility: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    -webkit-backface-visibility: hidden;
 }
